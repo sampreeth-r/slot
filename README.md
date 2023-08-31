@@ -1,1 +1,1 @@
-slot booking system using mern stack
+slot booking system using mern stack and mongodb
